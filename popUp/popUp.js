@@ -1,5 +1,5 @@
 function popUp() {
-    console.log('sucess')
+    console.log('success')
     var popUpElement = document.getElementById('popUpModal');
     popUpElement.addEventListener('click', () => {
 
